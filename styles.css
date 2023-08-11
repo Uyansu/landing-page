@@ -105,7 +105,7 @@
     border-radius: 15px;
     cursor: pointer;
   }
-  #btn:hover {
+  #submit:hover {
     width: 170px;
     font-size: 1.1rem;
   }
